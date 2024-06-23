@@ -36,5 +36,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
+
+## 🎉 Fun fact
+
+When I'm not coding, you can find me exploring the outdoors, reading sci-fi novels, or experimenting with new recipes in the kitchen.
+
 <!-- GitHub Stats Section -->
 
